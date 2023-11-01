@@ -1,3 +1,4 @@
+// Root Component for the Angular Application
 import { Component } from '@angular/core';
 
 @Component({

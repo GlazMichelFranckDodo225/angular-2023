@@ -1,3 +1,5 @@
+// Core Configuration of the Angular Application
+// Here, the Source Code starts from
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
